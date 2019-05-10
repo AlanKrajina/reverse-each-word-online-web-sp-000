@@ -7,3 +7,5 @@ def reverse_each_word(sentence1)
   return reversed.join("")
 
 end
+
+#samo svaku rijec zasebno okrenut
