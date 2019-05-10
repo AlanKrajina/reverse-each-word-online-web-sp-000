@@ -3,5 +3,5 @@ def reverse_each_word(sentence1)
   reversed=[]
   sentence.each do |i| 
   reversed.unshift(i)
-end
+  end
 end
