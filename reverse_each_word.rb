@@ -4,7 +4,7 @@ def reverse_each_word(sentence1)
   sentence.each do |i| 
   reversed << i.reverse
   end
-  return reversed
+  return reversed.join(" ")
 
 end
 
