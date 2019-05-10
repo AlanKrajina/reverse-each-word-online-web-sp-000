@@ -15,4 +15,3 @@ end
   reversed.join(" ")
 end
 
-#samo svaku rijec zasebno okrenut
