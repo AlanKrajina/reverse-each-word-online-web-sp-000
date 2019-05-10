@@ -14,6 +14,6 @@ def reverse_each_word(sentence)
   sentence.collect do |i| 
   reversed << i.reverse
   end
-  return reversed.join(" ")
+   reversed.join(" ")
 end
 
